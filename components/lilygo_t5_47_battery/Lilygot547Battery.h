@@ -16,7 +16,7 @@
 
 #ifndef EPD_DRIVER
 #define EPD_DRIVER
-#include "epd_driver.h"
+#include "esphome/components/lilygo_t5_47_battery/epd_driver.h"
 #endif
 
 namespace esphome {
