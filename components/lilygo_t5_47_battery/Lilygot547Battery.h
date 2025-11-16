@@ -12,7 +12,7 @@
 #include "esp_adc/adc_cali.h"
 
 //#include <driver/adc.h>
-#include "esp_adc_cal.h"
+//#include "esp_adc_cal.h"
 
 #ifndef EPD_DRIVER
 #define EPD_DRIVER
