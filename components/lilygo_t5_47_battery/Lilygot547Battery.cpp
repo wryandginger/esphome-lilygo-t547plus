@@ -1,6 +1,4 @@
 #include "Lilygot547Battery.h"
-#include "epd_driver.c"
-#include "epd_driver.h"
 #include "esphome/core/log.h"
 
 namespace esphome {
