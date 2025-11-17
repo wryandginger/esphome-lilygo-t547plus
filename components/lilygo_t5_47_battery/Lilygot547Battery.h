@@ -8,7 +8,7 @@
 #include "esphome/core/helpers.h"
 #include "esphome/core/version.h"
 #include "esphome/components/display/display_buffer.h"
-
+#include "epd_driver.h"
 
 #include "esp_adc/adc_oneshot.h"
 #include "esp_adc/adc_continuous.h"
