@@ -3,7 +3,11 @@
 #include "esphome/core/component.h"
 #include "esphome/components/sensor/sensor.h"
 #include "esphome/core/hal.h"
-
+#include "esphome/core/log.h"
+#include "esphome/core/application.h"
+#include "esphome/core/helpers.h"
+#include "esphome/core/version.h"
+#include "esphome/components/display/display_buffer.h"
 
 
 #include "esp_adc/adc_oneshot.h"
